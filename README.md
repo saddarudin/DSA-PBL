@@ -1,5 +1,5 @@
 # DSA-PBL
-Hi, this is my third semester project a problem based learning (PBL) 
+Hi, this is my third semester project a Problem Based Learning (PBL). 
 These problems have been taken from Kaggle website. 
 There may be some complexities in code as this is completely 
 solved by me you can suggest any issue by raising an issue.
